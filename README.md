@@ -5,3 +5,7 @@ I completed the international master program in [Machine Learning and Data Minin
 I wrote my Master Thesis during my internship at [Ava](https://www.ava.me/), a company dedicated to empowering deaf and hard-of-hearing people through their AI live captioning solution. There, I focused on the exploration and adaptation of classic Active Learning techniques to the task of Speaker Diarization, supervised by Bertrand Higy and Hervé Bredin. You can read the thesis [here](https://github.com/beltran99/master-diploma/blob/main/thesis/MasterThesis_BeltranCastro.pdf).
 
 ### Coursework
+- Advanced Machine Learning
+  - [Kernel Methods](https://github.com/beltran99/KernelMethods). Kernelization of some ML techniques.
+  - [Reinforcement Learning](https://github.com/beltran99/TreasureRoom-RL). Implementation of classical Q-learning and Deep Q-learning algorithms, and evaluation over the Multi-Armed Bandits Problem and a grid-world labyrinth game.
+  - Transfer Learning and Optimal Transport. Implementation of Subspace alignment and Entropic Regularized Optimal Transport methods.
